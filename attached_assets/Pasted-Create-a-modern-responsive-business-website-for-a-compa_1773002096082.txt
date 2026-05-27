@@ -1,0 +1,124 @@
+Create a modern, responsive business website for a company called "Coding Assignment Help" that helps students with programming assignments and projects.
+
+The website should use HTML, CSS, and JavaScript only (no frameworks) and should look modern, professional, and attractive for US college students.
+
+Design Requirements
+
+Clean modern UI
+
+Soft tech colors (blue, purple, white)
+
+Smooth animations
+
+Mobile responsive design
+
+Beautiful layout
+
+Professional fonts (Google Fonts like Poppins or Inter)
+
+Website Sections
+1. Hero Section
+
+Large headline:
+"Struggling With Coding Assignments?"
+
+Subtext:
+"We help students with Java, Python, C/C++, Web Development, and Database projects."
+
+Attractive illustration or coding image
+
+A large "Order Now" button
+
+When the Order Now button is clicked, it should redirect to:
+
+https://wa.me/94772095596
+2. Services Section
+
+Display modern cards showing services:
+
+Java Programming
+
+Python Programming
+
+C / C++ Programming
+
+HTML / CSS / JavaScript
+
+MySQL & Databases
+
+Programming Projects
+
+Each card should include:
+
+Icon
+
+Short description
+
+3. Why Choose Us Section
+
+Include 4 feature blocks:
+
+Fast Delivery
+
+Experienced Programmers
+
+Affordable Prices
+
+24/7 Support
+
+4. How It Works Section
+
+Step-by-step process:
+
+Send assignment via WhatsApp
+
+Get price and deadline
+
+Our experts complete your assignment
+
+Receive completed work on time
+
+5. Testimonials Section
+
+Add 3 fake student testimonials from US students.
+
+Example:
+
+"Great service! They helped me finish my Python project quickly." – Alex, USA
+
+6. Call To Action Section
+
+Large section with text:
+
+"Need Help With Your Coding Assignment?"
+
+Add a large Order Now button that links to:
+
+https://wa.me/94772095596
+7. Footer
+
+Include:
+
+Company name: Coding Assignment Help
+
+Text:
+
+"Professional programming assignment help for students worldwide."
+
+Contact:
+
+WhatsApp: +94772095596
+
+Add simple social icons.
+
+Additional Requirements
+
+Smooth scrolling navigation
+
+Sticky navbar
+
+Hover animations
+
+Modern CSS styling
+
+Fully responsive for mobile and desktop
