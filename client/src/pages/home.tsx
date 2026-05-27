@@ -338,7 +338,7 @@ function HeroSection() {
               Trusted by 1,000+ Students
             </div>
 
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight tracking-tight" data-testid="text-hero-title">
+            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-[1.1] tracking-tight" data-testid="text-hero-title">
               Struggling With{" "}
               <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
                 Coding Assignments
