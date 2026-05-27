@@ -340,7 +340,7 @@ function HeroSection() {
 
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight" data-testid="text-hero-title">
               <span className="block leading-tight">Struggling With</span>
-              <span className="block mt-3 leading-tight bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
+              <span className="block mt-2 leading-tight bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
                 Coding Assignments?
               </span>
             </h1>
