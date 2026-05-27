@@ -338,12 +338,11 @@ function HeroSection() {
               Trusted by 1,000+ Students
             </div>
 
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-[1.1] tracking-tight" data-testid="text-hero-title">
-              Struggling With{" "}
-              <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
-                Coding Assignments
+            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight" data-testid="text-hero-title">
+              <span className="block leading-tight">Struggling With</span>
+              <span className="block mt-3 leading-tight bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
+                Coding Assignments?
               </span>
-              ?
             </h1>
 
             <p className="mt-6 text-lg sm:text-xl text-muted-foreground leading-relaxed max-w-xl" data-testid="text-hero-subtitle">
